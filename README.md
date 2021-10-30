@@ -52,5 +52,3 @@ local webhooks = {
 }
 ```
 *This can be found in the `config.lua`*
-
-### ❓ For more questions you can join the discord here: https://discord.gg/prefech
